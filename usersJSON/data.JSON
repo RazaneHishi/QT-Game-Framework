@@ -1,0 +1,98 @@
+[
+    {
+        "3afif": {
+            "BonusPoints2": "",
+            "DOB": "1/1/00",
+            "Losses1": "0",
+            "Losses2": "5",
+            "Profile Pic": "blue",
+            "Wins1": "0",
+            "Wins2": "0",
+            "firstname": "yvan",
+            "gender": "male",
+            "lastname": "",
+            "password": "A123456a",
+            "phoneNumber": "+961-12345678"
+        }
+    },
+    {
+        "BOB BOB": {
+            "BonusPoints2": "0",
+            "DOB": "8/31/01",
+            "Losses1": "0",
+            "Losses2": "1",
+            "Profile Pic": "blue",
+            "Wins1": "0",
+            "Wins2": "0",
+            "firstname": "BOB",
+            "gender": "male",
+            "lastname": "BOB",
+            "password": "bOBBOB11",
+            "phoneNumber": "+961-76630599"
+        }
+    },
+    {
+        "raz": {
+            "BonusPoints2": "62",
+            "DOB": "7/28/01",
+            "Losses1": "0",
+            "Losses2": "6",
+            "Profile Pic": "yellow",
+            "Wins1": "0",
+            "Wins2": "4",
+            "firstname": "raane",
+            "gender": "female",
+            "lastname": "",
+            "password": "123456Aa",
+            "phoneNumber": "+970-03731348"
+        }
+    },
+    {
+        "aziz": {
+            "BonusPoints2": "0",
+            "DOB": "3/1/00",
+            "Losses1": "0",
+            "Losses2": "0",
+            "Profile Pic": "green",
+            "Wins1": "0",
+            "Wins2": "0",
+            "firstname": "Aziz",
+            "gender": "male",
+            "lastname": "aziz",
+            "password": "AAa1234567",
+            "phoneNumber": "+961-12345678"
+        }
+    },
+    {
+        "saadana": {
+            "BonusPoints2": "0",
+            "DOB": "1/1/00",
+            "Losses1": "0",
+            "Losses2": "0",
+            "Profile Pic": "red",
+            "Wins1": "0",
+            "Wins2": "0",
+            "firstname": "dana",
+            "gender": "female",
+            "lastname": "h",
+            "password": "123456Aa",
+            "phoneNumber": "+961-12345678"
+        }
+    },
+    {
+        "yara": {
+            "BonusPoints2": "0",
+            "DOB": "1/1/00",
+            "Losses1": "1",
+            "Losses2": "1",
+            "Profile Pic": "yellow",
+            "Wins1": "0",
+            "Wins2": "0",
+            "firstname": "yara",
+            "gender": "female",
+            "lastname": "abifarraj",
+            "password": "123456Aa",
+            "phoneNumber": "+961-76987218"
+        }
+    }
+]

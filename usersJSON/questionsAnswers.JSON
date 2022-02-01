@@ -1,0 +1,52 @@
+[
+    {
+        "Q1": {
+            "Is it possible to test your code exhaustively?": "No"
+        }
+    },
+    {
+        "Q2": {
+            "When using version control systems like Guthub, can previous versions of your code be accessed?": "Yes"
+        }
+    },
+    {
+        "Q3": {
+            "Is it better for multiple people working on the same project to manually share their updates and skip on using version control systems?": "No"
+        }
+    },
+    {
+        "Q4": {
+            "When declaring a class in C++, should its name start with a capital letter?": "Yes"
+        }
+    },
+    {
+        "Q5": {
+            "Should you wait until you finish writing  your entire program before compiling and debugging?": "No"
+        }
+    },
+    {
+        "Q6": {
+            "Should you refrain from adding documentation to your code because you think you remember what you were doing in it later on?": "No"
+        }
+    },
+    {
+        "Q7": {
+            "Should you keep as much of your class members as public?": "No"
+        }
+    },
+    {
+        "Q8": {
+            "In java, is it better to use 'Stringbuilder' to concatenate strings instead of the '+' operator?": "Yes"
+        }
+    },
+    {
+        "Q9": {
+            "Do templates in C++ help with program portability?": "Yes"
+        }
+    },
+    {
+        "Q10": {
+            "If you locate a bug in your code and edit the program aiming to fix it, should you search and fix more bugs instead of testing the current fix first?": "No"
+        }
+    }
+]
